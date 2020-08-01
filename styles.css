@@ -1,0 +1,86 @@
+body {
+    background-color: #a9d7e7;
+    font-family: 'lato';
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+.box {
+    background-color: #f3f3f3;
+    margin: auto;
+    width: 800px;
+    border-radius: 10px;
+    padding: 20px 10px 10px 10px;
+}
+p {
+    text-align: center;
+    font-size: 22px;
+}
+.form-rows {
+    position: static;
+    display: block;
+  }
+.labels {
+    display: inline-block;
+    width: 40%;
+    padding: 5px;
+    vertical-align: top;
+    margin-top: 10px;
+    text-align: right;
+  }
+  .input-fields {
+    height: 20px;
+    width: 280px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #c0c0c0;
+    border-radius: 4px;
+  }
+  .fields {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    vertical-align: middle;
+  }
+  .dropdown {
+    height: 35px;
+    width: 140px;
+    padding: 5px;
+    margin: 15px 10px 10px 10px;
+    border: 1px solid #c0c0c0;
+    border-radius: 4px;
+  }
+  .radio {
+    position: relative;
+    left: -43px;
+    margin-left: 10px;
+    display: block;
+    padding-bottom: 10px;
+  }
+  
+  .user-selection {
+    float: left;
+    margin-right: 5px;
+  }
+  .input-fields {
+    height: 20px;
+    width: 280px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #c0c0c0;
+    border-radius: 4px;
+    font-family: Open Sans Condensed;
+  }
+  .button {
+    font-size: 1em;
+    background-color: #6ba2ce;
+    color: white;
+    border: 0px solid;
+    border-radius: 4px;
+    height: 40px;
+    width: 80px;
+    margin: 10px;
+  }
+     
